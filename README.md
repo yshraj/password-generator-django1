@@ -1,2 +1,1 @@
-# password-generator-django1
-# django python first project
+##_Password generator website according to user's choice of letters, digits and special chars.._
